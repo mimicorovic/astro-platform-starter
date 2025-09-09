@@ -2,7 +2,7 @@
 
 @theme {
     --font-sans: 'Inter Variable', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-    --color-primary: #f67280;
+    --color-primary: #FF0000;
     --color-primary-content: #101828;
     --color-complementary: #355c7d;
     --background-image-noise: linear-gradient(
